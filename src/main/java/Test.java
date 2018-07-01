@@ -6,5 +6,6 @@ package main.java;
 public class Test {
     public static void main(String[] args) {
         System.out.println("version");
+        System.out.println("version 3");
     }
 }
